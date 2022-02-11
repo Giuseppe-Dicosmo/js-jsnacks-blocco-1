@@ -25,7 +25,7 @@
 // ----------------------------------------------------------
 
 let somma = 0;
-let contatore = 0;
+let contatore = 1;
 while (contatore <= 5) {
   const numeroUser = parseInt(prompt('Inserisci un numero'));
   somma = somma + numeroUser;
